@@ -1,36 +1,26 @@
 <div align="center">
 
-# Hi, I'm Faqi Syadid 👋
+# Faqi Syadid
 
-**Senior Backend Engineer | Exploring Data Engineering**
+**Senior Backend Engineer · Data Engineering enthusiast**
 
-I build reliable backend services and transaction-heavy systems, with a focus on payment integrations, REST APIs, and PostgreSQL.
+Building reliable APIs and transaction systems with Node.js, PostgreSQL, and AWS.
 
 [Portfolio & CV](https://faqisyadid.github.io/) · [LinkedIn](https://linkedin.com/in/faqi-syadid) · [Email](mailto:syadidfaqi@gmail.com)
 
 </div>
 
-## About me
+### Highlights
 
-- 6+ years of professional backend engineering experience.
-- Developed and maintained 500+ RESTful APIs for web and mobile applications.
-- Experienced in payment and banking integrations, idempotent transaction processing, and database optimization.
-- Interested in applying my SQL, database design, and Python foundations to data engineering.
+- 6+ years building backend systems; developed and maintained **500+ REST APIs**.
+- Experienced in payment integrations, transaction processing, and PostgreSQL optimization.
+- Backend: **Node.js, Express.js** · Data: **SQL, PostgreSQL, MySQL** · Cloud: **AWS, Docker**
 - Based in Tangerang, Indonesia.
 
-## Tech stack
+### Selected work
 
-**Backend:** Node.js, Express.js, REST API design  
-**Databases:** PostgreSQL, MySQL, SQL, database design, query optimization  
-**Cloud & infrastructure:** AWS EC2, AWS S3, Docker, PM2, NGINX  
-**Languages & tools:** JavaScript, Python (fundamentals), Git, GitLab, Linux
+- **Payments:** integrations and transaction workflows supporting 250,000+ retail stores.
+- **PPOB:** platform serving 1,400+ active stores, with 150+ payment and bill-payment products.
+- **Loyalty:** points platform supporting 13,000+ sales personnel.
 
-## Selected professional work
-
-*The examples below summarize professional work; implementation details are generalized.*
-
-- **Virtual Account Payments** — Built bank integrations and transaction synchronization workflows supporting balance funding for a network of 250,000+ retail stores.
-- **PPOB Platform** — Developed services for 1,400+ active retail stores and integrations across 150+ digital payment and bill-payment products.
-- **Loyalty Platform** — Built point accumulation and redemption workflows for 13,000+ sales personnel, using PostgreSQL to maintain transaction consistency.
-
-For more details, see my [portfolio and CV](https://faqisyadid.github.io/).
+[View my portfolio and CV →](https://faqisyadid.github.io/)
