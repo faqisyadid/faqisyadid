@@ -4,23 +4,16 @@
 
 **Senior Backend Engineer · Data Engineering enthusiast**
 
-Building reliable APIs and transaction systems with Node.js, PostgreSQL, and AWS.
+Reliable backend systems · Payment integrations · PostgreSQL
 
-[Portfolio & CV](https://faqisyadid.github.io/) · [LinkedIn](https://linkedin.com/in/faqi-syadid) · [Email](mailto:syadidfaqi@gmail.com)
+[Portfolio](https://faqisyadid.github.io/) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/faqi-syadid) &nbsp;·&nbsp; [Email](mailto:syadidfaqi@gmail.com)
 
 </div>
 
-### Highlights
+Backend engineer with **6+ years of experience** building transaction-intensive services and **500+ REST APIs**. Focused on Node.js, PostgreSQL, payment workflows, and practical database optimization. Currently expanding my data engineering skills, building on a strong foundation in SQL and relational databases.
 
-- 6+ years building backend systems; developed and maintained **500+ REST APIs**.
-- Experienced in payment integrations, transaction processing, and PostgreSQL optimization.
-- Backend: **Node.js, Express.js** · Data: **SQL, PostgreSQL, MySQL** · Cloud: **AWS, Docker**
-- Based in Tangerang, Indonesia.
+**Stack** &nbsp; Node.js · Express.js · PostgreSQL · MySQL · SQL · AWS · Docker
 
-### Selected work
+**Selected impact** &nbsp; Payment services for 250K+ retail stores · PPOB platform with 150+ payment products · Loyalty platform for 13K+ sales personnel
 
-- **Payments:** integrations and transaction workflows supporting 250,000+ retail stores.
-- **PPOB:** platform serving 1,400+ active stores, with 150+ payment and bill-payment products.
-- **Loyalty:** points platform supporting 13,000+ sales personnel.
-
-[View my portfolio and CV →](https://faqisyadid.github.io/)
+[Portfolio & CV →](https://faqisyadid.github.io/)
